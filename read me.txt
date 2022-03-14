@@ -1,0 +1,5 @@
+make database name newmvc thats all
+
+admin 
+login 123
+password 123
